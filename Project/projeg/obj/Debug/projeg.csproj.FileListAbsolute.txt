@@ -1,0 +1,31 @@
+C:\Users\LENOVO\source\repos\projeg\projeg\bin\Debug\projeg.exe.config
+C:\Users\LENOVO\source\repos\projeg\projeg\bin\Debug\projeg.exe
+C:\Users\LENOVO\source\repos\projeg\projeg\bin\Debug\projeg.pdb
+C:\Users\LENOVO\source\repos\projeg\projeg\obj\Debug\projeg.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\projeg\projeg\obj\Debug\projeg.egiris.resources
+C:\Users\LENOVO\source\repos\projeg\projeg\obj\Debug\projeg.Form1.resources
+C:\Users\LENOVO\source\repos\projeg\projeg\obj\Debug\projeg.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\projeg\projeg\obj\Debug\projeg.ygiris.resources
+C:\Users\LENOVO\source\repos\projeg\projeg\obj\Debug\projeg.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\projeg\projeg\obj\Debug\projeg.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\projeg\projeg\obj\Debug\projeg.exe
+C:\Users\LENOVO\source\repos\projeg\projeg\obj\Debug\projeg.pdb
+C:\Users\LENOVO\source\repos\projeg\projeg\obj\Debug\projeg.y_ana.resources
+C:\Users\LENOVO\source\repos\projeg\projeg\obj\Debug\projeg.e_ana.resources
+C:\Users\LENOVO\source\repos\projeg\projeg\obj\Debug\projeg.y_anaa.resources
+C:\Users\LENOVO\source\repos\projeg\projeg\obj\Debug\projeg.y_anaa2.resources
+C:\Users\dikma\Desktop\görsel proje\görsel proje\projeg\projeg\bin\Debug\projeg.exe.config
+C:\Users\dikma\Desktop\görsel proje\görsel proje\projeg\projeg\bin\Debug\projeg.exe
+C:\Users\dikma\Desktop\görsel proje\görsel proje\projeg\projeg\bin\Debug\projeg.pdb
+C:\Users\dikma\Desktop\görsel proje\görsel proje\projeg\projeg\obj\Debug\projeg.csprojAssemblyReference.cache
+C:\Users\dikma\Desktop\görsel proje\görsel proje\projeg\projeg\obj\Debug\projeg.egiris.resources
+C:\Users\dikma\Desktop\görsel proje\görsel proje\projeg\projeg\obj\Debug\projeg.e_ana.resources
+C:\Users\dikma\Desktop\görsel proje\görsel proje\projeg\projeg\obj\Debug\projeg.Form1.resources
+C:\Users\dikma\Desktop\görsel proje\görsel proje\projeg\projeg\obj\Debug\projeg.Properties.Resources.resources
+C:\Users\dikma\Desktop\görsel proje\görsel proje\projeg\projeg\obj\Debug\projeg.ygiris.resources
+C:\Users\dikma\Desktop\görsel proje\görsel proje\projeg\projeg\obj\Debug\projeg.y_ana.resources
+C:\Users\dikma\Desktop\görsel proje\görsel proje\projeg\projeg\obj\Debug\projeg.y_anaa.resources
+C:\Users\dikma\Desktop\görsel proje\görsel proje\projeg\projeg\obj\Debug\projeg.y_anaa2.resources
+C:\Users\dikma\Desktop\görsel proje\görsel proje\projeg\projeg\obj\Debug\projeg.csproj.GenerateResource.cache
+C:\Users\dikma\Desktop\görsel proje\görsel proje\projeg\projeg\obj\Debug\projeg.exe
+C:\Users\dikma\Desktop\görsel proje\görsel proje\projeg\projeg\obj\Debug\projeg.pdb
